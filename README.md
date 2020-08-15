@@ -1,4 +1,7 @@
-# e-mail
+A mailing app
+with sortable inbox, tagging supprt and consists draft option.
+Also keeps deleted mails in trash.
+This app is written in Javascript with uses bootstrap and VueJs
 
 > an email site like gmail
 
